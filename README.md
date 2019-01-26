@@ -1,4 +1,4 @@
-https://github.com/jerwest/AD320-IA1-Westfall.git
+https://github.com/jerwest/AD320-IA1-Westfall
 
 This repository is for Individual Assignment #1 in AD 320 - Web App Development at North Seattle College.
 
